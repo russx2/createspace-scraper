@@ -1,0 +1,6 @@
+Logs in and scrapes sales data from a CreateSpace (http://www.createspace.com) account (returns data for a given time period).
+
+Usage:
+    python createspace-scraper.py email password date_from date_to
+
+    Outputs the scraped data as VOLUME REVENUE e.g. "10 123.66"
